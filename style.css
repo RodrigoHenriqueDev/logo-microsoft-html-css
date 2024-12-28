@@ -1,0 +1,46 @@
+body{
+    display: flex;
+    height: 500px;
+    align-items: center;
+    justify-content: center;
+}
+.main-box
+{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+}
+.red{
+    width: 100px;
+    height: 100px;
+    background-color: #F25022;
+    margin-right: 4px;
+    margin-bottom:4px
+
+}
+.blue{
+    width: 100px;
+    height:100px;
+    background-color: #02A5F0;
+
+}
+
+.green{
+    width: 100px;
+    height:100px;
+    background-color: #7FBB01;   
+    margin-bottom:4px
+}
+.yellow{
+    width: 100px;
+    height:100px;
+    background-color: #FFB901;
+}
+
+.font{
+    font-size: 100px;
+    color:#737373;  
+    margin-left:9px;           
+
+}
